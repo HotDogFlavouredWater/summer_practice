@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# IDEA
+.idea/
+*.iml
+
+# архивы, логи и прочие мусорные артефакты
+*.rar
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+local.properties
+
+# логи
+*.log
+
+
